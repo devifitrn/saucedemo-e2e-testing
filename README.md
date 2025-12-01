@@ -31,4 +31,4 @@ The purpose of this project is to practice and demonstrate web automation skills
 
 ---
 Devi Fitria Nurvadila
-Software Test Engineer
+| Software Test Engineer
